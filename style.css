@@ -1,0 +1,913 @@
+/*--- css  classes started---*/
+.col-md-1 {
+
+    width: 8.33333333%;
+}
+
+
+.col-md-2 {
+
+
+    width: 16.66666667%;
+
+
+}
+
+.col-md-3 {
+
+    width: 25%;
+}
+
+.col-md-4 {
+
+
+    width: 33.33333333%;
+
+
+}
+
+
+.col-md-5 {
+
+
+    width: 41.66666667%;
+
+}
+
+.col-md-6 {
+
+    width: 50%
+}
+
+
+.col-md-7 {
+
+
+
+
+    width: 58.33333333%;
+}
+
+
+.col-md-8 {
+
+
+    width: 66.66666667%;
+
+}
+
+
+
+
+.col-md-9 {
+
+    width: 75%
+}
+
+
+
+.col-md-10 {
+
+
+    width: 83.33333333%;
+
+}
+
+
+
+
+.col-md-11 {
+
+
+    width: 91.66666667%;
+
+}
+
+
+
+.col-md-12 {
+
+
+    width: 100%;
+
+
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.padding-around {
+
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+
+.text-center {
+
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.p-cards {}
+
+.text-color {
+    text-decoration: none;
+    color: white;
+
+}
+
+/*--- css  classes ended---*/
+
+
+
+/*--- head  classes started---*/
+
+.head-background {
+
+
+    background-color: lightgreen;
+
+}
+
+
+.head-img {
+
+    padding-left: 70px;
+    padding-top: 5px;
+}
+
+.nav-list {
+    text-align: end;
+
+    list-style-type: none;
+
+}
+
+.nav-list li {
+    padding-right: 40px;
+    display: inline-block;
+    padding-top: 5px;
+
+}
+
+.nav-2-list {
+    text-align: end;
+    list-style-type: none;
+    padding-right: 70px;
+    padding-top: 5px;
+    color: white;
+}
+
+.px-2 {
+    padding: 0px 5px;
+}
+
+.nav-2-list li {
+
+    display: inline-block;
+}
+
+/*--- head  classes ended---*/
+/*--- hero  classes started---*/
+.hero-row {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+
+.hero {
+    padding: 0px 30px;
+}
+
+
+.hero-img-border {
+    border-radius: 10px;
+}
+
+.hero-2c-row1 {
+    padding-top: 40px;
+
+}
+
+.hero-2c-row {
+
+    padding-top: 20px;
+
+}
+
+.hero-btn-1 {
+    background-color: orangered;
+    color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 70px;
+    margin-left: 40px;
+    border-radius: 20px;
+}
+
+.hero-h {
+    padding-left: 40px;
+
+}
+
+.hero-h1 {
+    font-size: xx-larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.hero-h4 {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+
+.hero-h5 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-small
+}
+
+.hero-btn-2 {
+
+    background-color: lightgreen;
+    color: wheat;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: relative;
+    left: 40px;
+    border-radius: 30px;
+}
+
+/*--- hero  classes ended---*/
+/*--- product  classes started---*/
+.p-border {
+
+    border-radius: 10px;
+    border: 1px lightgray;
+}
+
+.p-h1 {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+
+}
+
+.p-h2 {
+    font-size: x-small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: gray;
+}
+
+.p-h3 {
+    font-size: xx-small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: green;
+
+
+}
+
+.del-price {
+
+    color: grey;
+    padding-right: 5px;
+}
+
+.Product-h-padding {
+
+    padding-top: 20px;
+
+}
+
+.hero-2c-paddings {
+
+    padding-right: 50px;
+}
+
+.Product {
+   
+    
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+
+
+
+
+.product-list-price li {
+    display: inline-block;
+}
+
+.Recently-Added {
+    text-align: center;
+    color: rgb(47, 173, 47);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-small;
+}
+
+.New-Products {
+    margin-bottom: 40px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+
+}
+
+
+.Products-list-padding {
+    margin-top: 40px;
+
+}
+
+
+/*--- product  classes ended---*/
+/*--- favorite  classes started---*/
+.favorite {
+    padding-top: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+
+}
+
+
+.fav-2c {}
+
+
+.fav-btn {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: darkcyan;
+    color: white;
+    text-decoration: none;
+    border-radius: 30px;
+    position: relative;
+    left: 550px;
+    top: 20px;
+    bottom: 30px;
+}
+
+
+.fav-btn:hover {
+    background-color: yellow;
+    color: black;
+
+}
+
+.fav-btn-1 {
+
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: orangered;
+    color: white;
+    margin-top: 30px;
+    margin-left: 30px;
+    border-radius: 30px;
+
+
+}
+
+.fav-h5 {
+    margin-top: 30px;
+    margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+
+}
+
+.fav-h4 {
+    margin-top: 30px;
+    margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    padding-top: -20px;
+}
+
+.fav-h1-white {
+
+    margin-top: 30px;
+    margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large large;
+    color: white;
+}
+
+.fav-h1 {
+    margin-top: 30px;
+    margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large large;
+}
+
+/*--- favorite  classes ended---*/
+/*--- best selling  classes started---*/
+.best-sellers-padding {
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 50px;
+}
+
+.best-selling-h5 {
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-small;
+    padding-left: 40px;
+    padding-top: 30px;
+
+}
+
+.best-selling-h1 {
+    padding-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+}
+
+.best-h1 {
+    padding-top: 60px;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+
+.best-h2 {
+
+    font-size: x-small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: gray;
+}
+
+.best-h3 {
+    font-size: xx-small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: green;
+}
+
+.best-1-h1 {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+
+.best-1-h2 {
+    font-size: x-small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: gray;
+}
+
+.best-1-h3 {
+
+    font-size: xx-small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: green;
+}
+
+
+
+
+/*--- best selling  classes ended---*/
+/*--- black friday  classes started---*/
+
+.black-friday {
+
+    padding-left: 40px;
+    padding-right: 40px;
+
+}
+
+.discount-h-3 {
+    padding-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    padding-top: 50px;
+}
+
+.discount-h-1 {
+    padding-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large
+}
+
+.discount-h-2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    font-weight: 100;
+    padding-left: 40px;
+}
+
+.discount-btn {
+
+    border-radius: 30px;
+    position: relative;
+    left: 40px;
+    margin-bottom: 70px;
+    background-color: darkcyan;
+    color: white;
+    text-decoration: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+
+
+.discount-img {
+
+    border-radius: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+
+}
+
+/*--- black friday  classes ended---*/
+
+
+
+/*--- latest   classes started---*/
+.latest {
+
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.latest-h5 {
+
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-small;
+    color: green;
+
+}
+
+.latest-h1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+    padding-bottom: 30px;
+
+
+}
+
+.latest-h3 {
+
+    font-size: x-small;
+    color: grey;
+
+
+
+}
+
+.latest-h2 {
+
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/*--- latest  classes ended---*/
+/*--- trending  classes started---*/
+.trending-background-color {
+    background-color: darkcyan;
+    border-radius: 20px;
+}
+
+.trending-img {
+    border-radius: 20px;
+
+}
+
+.trending-2c-h1 {
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+
+.trending-h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-small;
+    color: green;
+
+}
+
+.trending-h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+
+}
+
+
+
+
+.trending-list-1 {
+    position: relative;
+    right: 40px;
+    list-style-type: none;
+
+}
+
+
+.trending-list-1 li {
+
+    display: inline-block;
+
+}
+
+
+.trending-list-2 {
+    position: relative;
+    right: 40px;
+    list-style-type: none;
+
+}
+
+.trending-list-2 li {
+
+    display: inline-block;
+
+}
+
+
+
+.trending-list-1-h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    position: relative;
+    bottom: 40px;
+    padding-left: 40px;
+
+
+}
+
+.trending-list-1-h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-small;
+    color: gray;
+    position: relative;
+    bottom: 40px;
+    padding-left: 40px;
+}
+
+
+
+.trending-list-2-h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    position: relative;
+    bottom: 40px;
+    padding-left: 30px;
+}
+
+
+.trending-list-2-h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-small;
+    color: gray;
+    position: relative;
+    bottom: 40px;
+    padding-left: 30px;
+}
+
+.trending-list-1-h3 {
+    font-size: xx-small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: green;
+    position: relative;
+    bottom: 40px;
+    padding-left: 40px;
+
+}
+
+.trending-list-2-h3 {
+
+    font-size: xx-small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: green;
+    position: relative;
+    bottom: 40px;
+    padding-left: 30px;
+
+}
+
+.trending {
+    margin-top: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+
+}
+
+.trending-2c-h2 {
+
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.trending-2c-h3 {
+
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.trending-2c-h4 {
+
+    font-size: xx-small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: green;
+}
+
+.del-trending-price {
+
+    color: black;
+    padding-right: 5px;
+
+}
+
+
+.trending-btn {
+
+
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: lightgreen;
+    border-radius: 30px;
+    color: white;
+    margin-bottom: 30px;
+
+
+}
+
+/*--- trending  classes ended---*/
+/*--- footer  classes started---*/
+
+.footer {
+    background-color: black;
+
+
+}
+
+
+.footer-h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    color: gray;
+    text-decoration: none;
+    padding-left: 80px;
+    padding-top: 50px;
+}
+
+.footer-h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    color: green;
+    text-decoration: none;
+    padding-left: 80px;
+}
+
+.footer-h2 {
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+    color: gray;
+    text-decoration: none;
+    padding-left: 80px;
+}
+
+
+.footer-search {
+
+    padding-left: 300px;
+
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-radius: 30px;
+    position: relative;
+    left: 50px;
+    top: 40px;
+
+
+}
+
+.footer-btn {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border-radius: 30px;
+    position: relative;
+    top: 40px;
+    right: 48px;
+    background-color: green;
+    color: white;
+    text-decoration: none;
+
+
+
+}
+
+.footer-logo {
+
+    padding-left: 80px;
+    margin-top: 30px;
+
+}
+
+.footer-logo-h1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-weight: 100;
+    margin-left: 80px;
+    margin-bottom: 60PX;
+}
+
+.footer-contact-h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding-left: 40px;
+    font-size: x-large;
+}
+
+.footer-cotact-list {
+
+    padding-right: 30px;
+
+}
+
+.footer-cotact-list li {
+
+    line-height: 30px;
+
+
+}
+
+.footer-address-h1 {
+
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+}
+
+.footer-address-p {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-small;
+}
+
+.footer-social-h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+    color: white;
+
+    padding-left: 60px;
+
+}
+
+.footer-social-list {
+    padding-right: 40px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-small;
+    list-style-type: none;
+
+
+}
+
+
+
+.footer-social-list li {
+
+    display: inline-block;
+    padding-left: 20px;
+
+
+}
+
+.contact-no {
+    color: white;
+    text-decoration: none;
+}
+
+.contact-mail {
+    color: white;
+    text-decoration: none;
+}
+
+/*--- footer   classes ended---*/
